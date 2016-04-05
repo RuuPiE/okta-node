@@ -1,5 +1,6 @@
 /**
- * Created by jjohnson on 12/9/13.
+ * Created by ruben on 2016-04-04
  */
 
-module.exports = require("./lib/OktaAPI");
+import OktaApi from './lib/OktaAPI'
+export default OktaApi
